@@ -1,5 +1,5 @@
 # rick-and-morty
-
+# https://affectionate-nobel-6f58d0.netlify.app/
 ## Project setup
 ```
 npm install
