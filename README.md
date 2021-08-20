@@ -1,5 +1,5 @@
-# rick-and-morty
-# https://affectionate-nobel-6f58d0.netlify.app/
+# rick-and-morty is SPA made in vue that allows users to search through Rick and Morty characters database and select favorite charachters
+# link t site https://affectionate-nobel-6f58d0.netlify.app/
 ## Project setup
 ```
 npm install
@@ -9,16 +9,6 @@ npm install
 ```
 npm run serve
 ```
+<img src="https://user-images.githubusercontent.com/57400708/130222993-7908e04d-ebd9-4d7f-a85b-226349232788.png">
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
