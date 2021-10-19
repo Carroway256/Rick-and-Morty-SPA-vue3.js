@@ -1,17 +1,16 @@
 <template>
-  <Ricky></Ricky>
+  <MainLayout></MainLayout>
 </template>
 
-<script>
-import Ricky from "./components/rickApp.vue";
-
-
-export default {
-  name: "App",
+<script lang="ts">
+import { Options, Vue } from 'vue-class-component';
+import MainLayout from './components/MainLayout.vue';
+@Options({
   components: {
-    Ricky
+    MainLayout
   },
-};
+})
+export default class App extends Vue {}
 </script>
 
 <style>
